@@ -1,0 +1,17 @@
+.btn {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: 100;
+	transition: color 0.3s ease;
+	background-color: purple;
+	padding: 10px;
+	border: 4px purple;
+	border-radius: 5px;
+	font-family: Roboto;
+}
+
+.btn:hover {
+	background-color: black;
+	text-decoration: underline;
+}
